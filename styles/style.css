@@ -1,6 +1,5 @@
 *{
 box-sizing: border-box;
-border: 1px solid red;
 margin: 0;
 padding: 0;
 }
@@ -235,7 +234,6 @@ width: 60%;
 color: white;
 }
 .kaufman__triangle{
-background-image: url(/images/kaufman-triangle.svg);
 width: 877px;
 height: 877px;
 position: absolute;
