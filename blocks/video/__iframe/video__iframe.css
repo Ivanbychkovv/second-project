@@ -2,3 +2,7 @@
   margin-top: 60px;
   margin-left: auto;
  }
+ .video__iframe:last-child{
+  margin-left: 20px;
+  margin-right: auto;
+}
